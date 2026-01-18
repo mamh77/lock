@@ -1,14 +1,14 @@
+
+
 {
   "expo": {
-    "name": "vengeful-green-bubblegum",
-    "slug": "snack-3842eb9b-eec6-4b03-bc3c-7b65fba7e077",
+    "name": "Digital Clock",
+    "slug": "digital-clock-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,10 +17,9 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "package": "com.yourname.clockapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
