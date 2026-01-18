@@ -1,19 +1,4 @@
 {
-  "build": {
-    "preview": {
-      "android": {
-        "buildType": "apk"
-      }
-    },
-    "production": {
-      "android": {
-        "buildType": "apk"
-      }
-    }
-  }
-}
-
-{
   "cli": {
     "appVersionSource": "local"
   },
