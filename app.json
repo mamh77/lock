@@ -1,10 +1,9 @@
-
-
 {
   "expo": {
     "name": "Digital Clock",
     "slug": "digital-clock-app",
     "version": "1.0.0",
+    "projectId": "28496b74-dfe7-41de-9363-531b6e188614",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -23,16 +22,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
-  }
-}
-{
-  "expo": {
-    "name": "Digital Clock",
-    "slug": "digital-clock-app",
-    "projectId": "28496b74-dfe7-41de-9363-531b6e188614",
-    "android": {
-      "package": "com.yourname.clockapp"
     },
     "extra": {
       "eas": {
