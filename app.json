@@ -26,3 +26,18 @@
     }
   }
 }
+{
+  "expo": {
+    "name": "Digital Clock",
+    "slug": "digital-clock-app",
+    "projectId": "28496b74-dfe7-41de-9363-531b6e188614",
+    "android": {
+      "package": "com.yourname.clockapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "28496b74-dfe7-41de-9363-531b6e188614"
+      }
+    }
+  }
+}
